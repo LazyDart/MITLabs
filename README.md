@@ -1,5 +1,4 @@
 # MIT Intro do Deep Learning Labs
-<br>
 ![Python](https://img.shields.io/badge/python-v3.11-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 <a target="_blank" href="https://www.linkedin.com/in/tkacz-milosz-data-science/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
